@@ -1,3 +1,7 @@
 hello everyone how are you
 
+<<<<<<< HEAD
 All good here
+=======
+All are doing good
+>>>>>>> 428967f2fa021a0017b930c75b43b4967d473512
